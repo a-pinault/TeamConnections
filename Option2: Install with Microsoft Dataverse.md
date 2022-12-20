@@ -1,6 +1,6 @@
 # Option 2: Install the App using Microsoft Dataverse 
 
-This article provides step-by-step instructions for deploying the Maturity Assessment App solution.
+This article provides step-by-step instructions for deploying the Team Connections App solution.
 
 Estimated time to complete these steps: 15 minutes.
 

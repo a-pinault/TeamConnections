@@ -6,11 +6,11 @@ Its purpose? Respond to the challenge of getting back to the office, by creating
 
 The main feature of the application is to be able to choose your days of attendance in the office according to the presence indicated by your colleagues. It also allows you to share your best memories with colleagues, to have an overview of upcoming events, and to list the most useful resources for your team. 
 
-
+![All-tabs](https://user-images.githubusercontent.com/119928725/208634345-9b63dc66-d2ee-49f4-91b7-5cec0b9b252e.png)
 
 # Detailed tabs
 
-### **Who's On Campus**
+## **Who's On Campus**
 
 Indicate your office presence and availability, and see what others are doing!
 
@@ -20,27 +20,39 @@ Indicate your office presence and availability, and see what others are doing!
 
 *> Select then 'Lunch' and/or 'Coffee' buttons to indicate your previsional availability on this date.*
 
+![image](https://user-images.githubusercontent.com/119928725/208633348-033e24f0-cc16-4bfc-a14d-1d1011c8b849.png)
 
 
-### **Team Fun**
+## **Team Fun**
 
 Share your best team memories.
 
 *> Select '+' button to add a team picture in 5 clicks to the displayed gallery.*
 
+![image](https://user-images.githubusercontent.com/119928725/208623065-6840f235-6e5f-480b-a4a9-842cfa21b77e.png)
+![image](https://user-images.githubusercontent.com/119928725/208623282-539311c8-5755-459a-bc02-d2fd08d59466.png)
 
-### **Team Events**
+
+
+## **Team Events**
 
 Get an overview of all upcoming events.
 
 *> Select '+' button to add an event in 8 clicks to the displayed gallery.*
 
+![image](https://user-images.githubusercontent.com/119928725/208627816-c3e6b186-7e21-4244-8362-ec43cc916500.png)
+![image](https://user-images.githubusercontent.com/119928725/208627972-4a02326b-dca6-4a42-aad8-77393b62dfd2.png)
 
-### **Resources**
+
+
+## **Resources**
 
 Find in one place all the useful links.
 
 *> Select '+' button to add an additional resource in 4 clicks to the displayed gallery.*
+
+![image](https://user-images.githubusercontent.com/119928725/208629421-fbf47cc0-5575-4d00-9ca5-8e1c647a85d2.png)
+![image](https://user-images.githubusercontent.com/119928725/208629550-0a539b13-3b40-46f2-b00f-d5272be7f4eb.png)
 
 
 
